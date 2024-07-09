@@ -1,0 +1,14 @@
+C:\Users\abo0o\RiderProjects\Library Management System\bin\Debug\net8.0\Library Management System.exe
+C:\Users\abo0o\RiderProjects\Library Management System\bin\Debug\net8.0\Library Management System.deps.json
+C:\Users\abo0o\RiderProjects\Library Management System\bin\Debug\net8.0\Library Management System.runtimeconfig.json
+C:\Users\abo0o\RiderProjects\Library Management System\bin\Debug\net8.0\Library Management System.dll
+C:\Users\abo0o\RiderProjects\Library Management System\bin\Debug\net8.0\Library Management System.pdb
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.dll
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\refint\Library Management System.dll
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.pdb
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+C:\Users\abo0o\RiderProjects\Library Management System\obj\Debug\net8.0\ref\Library Management System.dll
